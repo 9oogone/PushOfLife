@@ -88,7 +88,9 @@ CPR 지원을 시작할 수 있다.
 1. [시퀀스 다이어그램 / 플로우 차트](https://www.figma.com/board/0me3wlmN98S2jQsRvEKxls/PushOfLife-%ED%94%8C%EB%A1%9C%EC%9A%B0-%2F-%EC%8B%9C%ED%80%80%EC%8A%A4-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8?node-id=0-1&t=hbI9DYjlXGrl1Wsn-1)
 2. [화면 정의서](https://www.figma.com/design/fr1BBE9ckkxsdklZIgj6qE/PushOfLife-%ED%99%94%EB%A9%B4-%EC%A0%95%EC%9D%98%EC%84%9C?node-id=0-1&t=IY5YWw67Yjg1YYAK-1)
 3. [API 연동 규격서](https://ring-barracuda-ca0.notion.site/API-11e55838bdb681679b9fd91505219167)
-4. [기능 명세서](https://ring-barracuda-ca0.notion.site/11e55838bdb681bc8f9dd376d9ebbef5)
+4. [기능 명세서](https://ring-barracuda-ca0.notion.site/11e55838bdb681bc8f9dd376d9ebbef5)  
+
+본 서비스의 구체적인 기획 및 설계 내역은 [상세 서비스 명세서](./서비스명세서.pdf) 문서에서 확인할 수 있습니다.
 
 
 
