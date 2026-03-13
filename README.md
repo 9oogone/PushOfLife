@@ -90,7 +90,7 @@ CPR 지원을 시작할 수 있다.
 3. [API 연동 규격서](https://ring-barracuda-ca0.notion.site/API-11e55838bdb681679b9fd91505219167)
 4. [기능 명세서](https://ring-barracuda-ca0.notion.site/11e55838bdb681bc8f9dd376d9ebbef5)  
 
-본 서비스의 구체적인 기획 및 설계 내역은 [상세 서비스 명세서](./서비스명세서.pdf) 문서에서 확인할 수 있습니다.
+본 서비스의 구체적인 기획 및 설계 내역은 [상세 서비스 명세서](./서비스명세서.pdf)에서 확인 가능합니다.
 
 
 
